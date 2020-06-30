@@ -1,3 +1,4 @@
+
 # lfz-prep-meme-gallery
 
 Instructions for building a meme gallery using introductory JavaScript.
@@ -62,3 +63,6 @@ This project is broken into three major phases:
 1. Dynamically Rendering Images
 
 Let's get started with setting up our initial HTML page and styling in the [first section](HTML_PAGE_AND_STYLING.md).
+
+# meme-gallery
+An interactive HTML, CSS, and JavaScript app.
