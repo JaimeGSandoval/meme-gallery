@@ -48,3 +48,20 @@ input,
 button {
   color: #ffffff;
 }
+
+.gallery-image {
+  width: 310px;
+  height: 310px;
+  margin: 5px;
+  border: 6px solid #48494b;
+  border-radius: 3px;
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+  object-fit: cover;
+}
+
+main {
+  max-width: 960px;
+  margin: 32px auto;
+  display: flex;
+  flex-wrap: wrap;
+}
